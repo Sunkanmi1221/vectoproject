@@ -1,0 +1,367 @@
+{
+    "vecto":[
+        {
+            "id": 1,
+            "name" : "Bruschetta Cheese Bread",
+            "price" : 18.32,
+            "img": "/img/Apetizer Bruschetta Cheese Bread.png",
+            "featured" : true,
+            "picked" : false,
+            "daily": false,
+            "category": "Apetizers",
+            "description" : "Fresh mozarrella cheese, tomatoes, basil and olive oil on italian bread"
+            
+        
+
+        },
+        {
+            "id": 2,
+            "name" : "Garlic Rolls",
+            "price" : 14.89,
+            "img": "/img/Apetizer Garlic Rolls.png",
+            "featured" : false,
+            "picked" : true,
+            "daily": false,
+            "category": "Apetizers",
+            "description": "Soft and fluffy dinner rolls brushed with delicious garlic herb butter."
+
+        },
+        {
+            "id": 3,
+            "name" : "Italiano Platter",
+            "price" : 15.71,
+            "img": "/img/Apetizer Italiano Platter.png",
+            "featured" : false,
+            "picked" : false,
+            "daily": true,
+            "category": "Apetizers",
+            "description": "Italian curIed meats, cheeses and marinated vegetables. A perfect appetizer for any occasion!"
+
+        },
+        {
+            "id": 4,
+            "name" : "Buffalo shrimps",
+            "price" : 11.23,
+            "img": "/img//Apetizers Buffalo shrimps.png",
+            "featured" : false,
+            "picked" : false,
+            "daily": true,
+            "category": "Apetizers",
+            "description": "Tender yet crispy fried shrimps, served with delicious Chicken Wing Sauce. Ideal as an appetizer or indulgent snack or a light meal "
+
+        },
+        {
+            "id": 5,
+            "name" : "French Fries",
+            "price" : 6.87,
+            "img": "/img/Apetizers French Fries.png",
+            "featured" : true,
+            "picked" : false,
+            "daily": false,
+            "category": "Apetizers",
+            "description": "Snack or side dish made from potato strips that are deep-fried until crispy."
+
+        },
+        {
+            "id": 6,
+            "name" : "Fried Mushrooms",
+            "price" : 5.73,
+            "img": "/img/Apetizers fried mushrooms.png",
+            "featured" : false,
+            "picked" : true,
+            "daily": false,
+            "category": "Apetizers",
+            "description": "A crispy, golden-brown vegetable side dish made by cooking mushrooms"
+
+        },
+        {
+            "id": 7,
+            "name" : "Baked Ziti",
+            "price" : 13.50,
+            "img": "/img/Pasta Baked Ziti.png",
+            "featured" : true,
+            "picked" : false,
+            "daily": false,
+            "category": "Pasta",
+            "description": "g"
+
+        },
+        {
+            "id": 8,
+            "name" : "Eggplant Parmesan",
+            "price" : 6.38,
+            "img": "/img/Pasta Eggplant Parmesan.png",
+            "featured" : false,
+            "picked" : true,
+            "daily": false,
+            "category": "Pasta",
+            "description": "A super cozy pasta casserole made with ziti pasta (a smooth tube-shaped pasta), red sauce, and a mix of cheeses "
+
+        },
+        {
+            "id": 9,
+            "name" : "Frutti di Mare",
+            "price" : 9.65,
+            "img": "/img/Pasta Frutti di Mare.png",
+            "featured" : false,
+            "picked" : false,
+            "daily": true,
+            "category": "Pasta",
+            "description": "An Italian pasta dish that features a variety of seafood in a light tomato sauce."
+
+        },
+        {
+            "id": 10,
+            "name" : "Panne alla Vodka",
+            "price" : 8.25,
+            "img": "/img/Pasta Panne alla Vodka.png",
+            "featured" : false,
+            "picked" : false,
+            "daily": true,
+            "category": "Pasta",
+            "description": "An Italian pasta dish of penne in a creamy vodka sauce. The sauce is made with tomatoes, vodka, cream, and Italian herbs."
+
+
+        },
+        {
+            "id": 11,
+            "name" : "Spaghetti Aglio",
+            "price" : 6.34,
+            "img": "/img/Pasta SPAGHETTI AGLIO.png",
+            "featured" : true,
+            "picked" : false,
+            "daily": false,
+            "category": "Pasta",
+            "description": "A simple yet flavorful Italian pasta dish made primarily with spaghetti noodles, garlic, olive oil, and a touch of seasonings."
+
+        },
+        {
+            "id": 12,
+            "name" : "Penne alla Arrabbiata",
+            "price" : 9.38,
+            "img": "/img/Pasta Penne alla Arrabbiata.png",
+            "featured" : false,
+            "picked" : true,
+            "daily": false,
+            "category": "Pasta",
+            "description": "A Roman pasta dish made with penne pasta in a spicy tomato sauce."
+
+        },
+        {
+            "id": 13,
+            "name" : "Florentine Pizza",
+            "price" : 13.65,
+            "img": "/img/Pizza Florentine Pizza.png",
+            "featured" : true,
+            "picked" : false,
+            "daily": false,
+            "category": "Pizza",
+            "description": "A silky spinach, tangy tomato and salty Parma ham sit neatly on a traditional pizza base, topped with a perfectly cooked egg"
+
+        },
+        {
+            "id": 14,
+            "name" : "Greek Pizza",
+            "price" : 19.21,
+            "img": "/img/Pizza Greek Pizza.png",
+            "featured" : false,
+            "picked" : true,
+            "daily": false,
+            "category": "Pizza",
+            "description": "A mediterranean-style pizza with a soft, thick crust and toppings like olives, feta, tomatoes, and onions."
+
+        },
+        {
+            "id": 15,
+            "name" : "Margherita Pizza",
+            "price" : 16.41,
+            "img": "/img/Pizza Margherita Pizza.png",
+            "featured" : false,
+            "picked" : false,
+            "daily": true,
+            "category": "Pizza",
+            "description": "A classic Italian pizza featuring a thin crust topped with fresh tomato sauce, creamy mozzarella cheese, and fresh basil leaves."
+
+        },
+        {
+            "id": 16,
+            "name" : "Pesto Pizza",
+            "price" : 17.39,
+            "img": "/img/Pizza Pesto Pizza.png",
+            "featured" : false,
+            "picked" : false,
+            "daily": true,
+            "category": "Pizza",
+            "description": "This coal-fired masterpiece promises an appealing twist on tradition with its trio of fresh mozzarella, savory basil pesto, and basil leaves."
+
+        },
+        {
+            "id": 17,
+            "name" : "Pineapple and Ham Pizza",
+            "price" : 7.86,
+            "img": "/img/Pizza PINEAPPLE AND HAM PIZZA.png",
+            "featured" : true,
+            "picked" : false,
+            "daily": false,
+            "category": "Pizza",
+            "description": "A classic Hawaiian Pizza combines pizza sauce, cheese, cooked ham, and pineapple."
+
+        },
+        {
+            "id": 18,
+            "name" : "Tortellini",
+            "price" : 3.99,
+            "img": "/img/PastaTortellini.png",
+            "featured" : false,
+            "picked" : true,
+            "daily": false,
+            "category": "Pasta",
+            "description": "A ring-shaped pasta that's stuffed with cheese, meat, or vegetables."
+
+        },
+        {
+            "id": 19,
+            "name" : "Antipasto",
+            "price" : 12.71,
+            "img": "/img/Salad Antipasto.png",
+            "featured" : true,
+            "picked" : false,
+            "daily": false,
+            "category": "Salad",
+            "description": "A plate of cured meats, cheeses, and vegetables that's typically served at the beginning of an Italian meal. "
+
+        },
+        {
+            "id": 20,
+            "name" : "Blue Cheese",
+            "price" : 11.36,
+            "img": "/img/Salad blue cheese.png",
+            "featured" : false,
+            "picked" : true,
+            "daily": false,
+            "category": "Salad",
+            "description": "A cheese with blue veins or marbling caused by edible mold."
+
+        },
+        {
+            "id": 21,
+            "name" : "Caesar Salad",
+            "price" : 20.91,
+            "img": "/img/Salad Caesar Salad.png",
+            "featured" : false,
+            "picked" : false,
+            "daily": true,
+            "category": "Salad",
+            "description": "A green salad made with romaine lettuce, croutons, and a dressing of olive oil, lemon juice, anchovies, garlic, and Parmesan cheese."
+
+        },
+        {
+            "id": 22,
+            "name" : "Chef salad",
+            "price" : 16.97,
+            "img": "/img/Salad Chef salad.png",
+            "featured" : false,
+            "picked" : false,
+            "daily": false,
+            "category": "Salad",
+            "description": "An American salad that typically includes lettuce, meat, cheese, hard-boiled eggs, tomatoes, and cucumbers."
+
+        },
+        {
+            "id": 23,
+            "name" : "Greek Salad",
+            "price" : 12.38,
+            "img": "/img/Salad Greek Salad.png",
+            "featured" : false,
+            "picked" : false,
+            "daily": false,
+            "category": "Salad",
+            "description": "A tossed salad made with tomatoes, cucumbers, onions, olives, feta cheese, and dressed with olive oil, oregano, vinegar, or lemon juice."
+
+        },
+        {
+            "id": 24,
+            "name" : "Parmesan Cheese",
+            "price" : 17.73,
+            "img": "/img/Salad Parmesan Cheese.png",
+            "featured" : false,
+            "picked" : false,
+            "daily": false,
+            "category": "Salad",
+            "description": "A hard, granular, Italian cheese made from cow's milk, known for its strong, nutty flavor, crumbly texture, and pale yellow color"
+
+        },
+        {
+            "id": 25,
+            "name" : "Meatball Parmesan",
+            "price" : 8.83,
+            "img": "/img/Sandwich Meatball Parmesan.png",
+            "featured" : true,
+            "picked" : false,
+            "daily": false,
+            "category": "Sandwich",
+            "description": "An Italian dish of meatballs in marinara sauce, topped with cheese and served in a bread roll or casserole.  "
+
+        },
+        {
+            "id": 26,
+            "name" : "Ham and Cheese",
+            "price" : 9.94,
+            "img": "/img/Sandwich Ham and Cheese.png",
+            "featured" : false,
+            "picked" : true,
+            "daily": false,
+            "category": "Sandwich",
+            "description": "Remains of pig, cured and sliced with a topping of Leicester cheese and a kiss of egg yolk sauce (a form of mayonnaise) in a round bread roll."
+
+        },
+        {
+            "id": 27,
+            "name" : "Mozzarella Caprese",
+            "price" : 15.58,
+            "img": "/img/Sandwich Salami and Fresh Mozzarella Caprese.png",
+            "featured" : false,
+            "picked" : false,
+            "daily": true,
+            "category": "Sandwich",
+            "description": "Fresh mozzarella, tomatoes, basil and virgin olive oil."
+
+        },
+        {
+            "id": 28,
+            "name" : "Panini Rosina",
+            "price" : 7.11,
+            "img": "/img/Sandwich Panini Rosina.png",
+            "featured" : false,
+            "picked" : false,
+            "daily": false,
+            "category": "Sandwich",
+            "description": "Italian ham, roasted red peppers, fresh mozzarella, extra virgin olive oil & spices. Served on rustic Italian bread & grilled to perfection."
+
+        },
+        {
+            "id": 29,
+            "name" : "Steak Sandwich and Fries",
+            "price" : 8.05,
+            "img": "/img/Sandwich Steak Sandwich and Fries.png",
+            "featured" : false,
+            "picked" : false,
+            "daily": false,
+            "category": "Sandwich",
+            "description": "Sandwich made with sliced grilled or fried steak on bread, often with toppings like cheese, onions, and peppers, served alongside a portion of crispy french fries"
+
+        },
+        {
+            "id": 30,
+            "name" : "Tuna Fish",
+            "price" : 14.99,
+            "img": "/img/Sandwich Tuna Fish.png",
+            "featured" : false,
+            "picked" : false,
+            "daily": false,
+            "category": "Sandwich",
+            "description": "Elongated, robust, and streamlined fishes grilled with peppers and onions"
+
+        }
+    ]
+}
