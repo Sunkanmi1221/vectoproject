@@ -12,6 +12,7 @@
     "lint": "eslint .",
     "server": "json-server --watch db.json",
     "start": "concurrently \"npm run dev \" \"npm run server \"",
+    "start": "json-server --watch db.json --port 3000",
     "predeploy": "npm run build"
   },
   "dependencies": {
