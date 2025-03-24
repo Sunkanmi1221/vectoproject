@@ -20,6 +20,8 @@ export const EcomProvider = ({ children }) => {
         const res = await fetch("http://localhost:3000/vecto")
         const data = await res.json();
         setProduct(data);
+        
+
 
     }
 
