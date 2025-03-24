@@ -114,9 +114,7 @@ function TermsAndConditions() {
                 <section>
                     <h2 className="text-sm md:text-l lg:text-xl font-semibold mb-2">10. Governing Law</h2>
                     <p className="text-gray-700">
-                        These Terms and Conditions are governed by the laws of [Your
-                        Country/State]. Any disputes will be resolved in the courts of
-                        [Your Jurisdiction].
+                        These Terms and Conditions are governed by the laws of the United States of America. Any disputes will be resolved in the court.
                     </p>
                 </section>
 
