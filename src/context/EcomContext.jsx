@@ -17,7 +17,8 @@ export const EcomProvider = ({ children }) => {
     }, []);
 
     const fetchProduct = async () => {
-        const res = await fetch("http://localhost:3000/vecto")
+        // const res = await fetch("http://localhost:3000/vecto")
+        const res = await fetch("https://my-backend-service-utw6.onrender.com/vecto")
         const data = await res.json();
         setProduct(data);
         
